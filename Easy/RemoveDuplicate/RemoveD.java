@@ -1,11 +1,10 @@
-import java.util.HashSet;
-
-public class RemoveDuplicates {
+import java.util.HashSet;;
+public class RemoveD {
     public static void main(String[] args) {
 
         int[] arr = {1, 1, 2, 2, 3, 3, 4, 5, 5};
 
-        HashSet<Integer> set = new HashSet<>();
+        HashSet<Integer> set = new HashSet<Integer>();
 
         // Add all elements to the HashSet
         for (int i = 0; i < arr.length; i++) {
