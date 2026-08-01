@@ -1,4 +1,4 @@
-// //Brute force uproach //nlogn
+// Brute force approach // nlogn
 // import java.util.HashSet;
 // public class RemoveD {
 //     public static void main(String[] args) {
