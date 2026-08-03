@@ -26,4 +26,6 @@ public class betteronce {
         }
     }
 } 
+//time complexity will be we have used 3 for loops so O(N)+O(N)+O(N)= O(3n)
+//space complexity we have used hash maxi so O(maxi) that depends on the input    
 
