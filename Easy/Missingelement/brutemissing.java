@@ -14,8 +14,8 @@ public class brutemissing {
                 }
             }
             if(!found){
-                found=false;
-                System.out.println("not present number = "+i);
+                found= false;
+                System.out.println("not present number is "+i);
             }
         }
         
