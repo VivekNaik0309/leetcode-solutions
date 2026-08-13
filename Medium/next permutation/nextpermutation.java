@@ -18,7 +18,7 @@ public class nextpermutation {
 
         // Step 2: If no breakpoint, reverse entire array
         if (ind == -1) {
-
+            
             int start = 0;
             int end = n - 1;
 
