@@ -1,3 +1,4 @@
+//ls states linear search
 public class Bruteconsecseq {
     static boolean ls(int arr[], int num) {
 
